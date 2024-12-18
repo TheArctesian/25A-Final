@@ -156,7 +156,7 @@
       </div>
     {:else}
       <div class="cc">
-        {#if philosopher}
+        <!-- {#if philosopher}
           <div class="font-bold">
             <Typewriter interval={10}>
               <h1>{philosopher}</h1>
@@ -169,7 +169,7 @@
           </div>
         {/if}
 
-        <Typewriter interval={10}>
+        <Typewriter interval={10}> -->
           <h1 class="bold">{question}</h1>
         </Typewriter>
       </div>
