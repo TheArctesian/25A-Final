@@ -168,8 +168,8 @@
             </Typewriter>
           </div>
         {/if}
-
-        <Typewriter interval={10}> -->
+-->
+        <Typewriter interval={10}> 
           <h1 class="bold">{question}</h1>
         </Typewriter>
       </div>
