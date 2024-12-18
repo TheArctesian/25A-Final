@@ -1,143 +1,269 @@
 {
   "Socrates": {
-    "Plato, Protagoras": [
+    "Euthyphro": [
+      "Why does Socrates think Euthyphro must have knowledge of piety?",
+      "Why does Socrates press Euthyphro to give a definition of piety?",
+      "What definitions does Euthyphro offer?",
+      "How does Socrates get Euthyphro to abandon the various definitions? Describe his general method, and show how it works for each definition.",
+      "What can we learn from the Euthyphro about Socrates' religious views?",
+      "Why do Socrates and Euthyphro reject the definition of piety as 'what all the gods love' (starting at 9d)? What assumptions do they make?",
+      "Does Socrates reject the definition of piety as 'what all the gods love' because there are pious actions that not all the gods love, because there are non-pious actions that all the gods love, or for neither reason?",
+      "What's so great about having a definition of piety? Why wouldn't it be enough, for Euthyphro's purposes, to have a feature common to all and only cases of piety?"
+    ],
+    "Apology": [
+      "What are the official charges against Socrates?",
+      "To what extent is he guilty of these charges? Are they entirely trumped up, or is there some truth in them?",
+      "What are the 'old accusations' Socrates says lie behind the new ones?",
+      "How does Socrates explain his peculiar way of living? How does he explain the slanders and accusations against him?",
+      "Compare the portrayal of Socrates in Aristophanes' Clouds with that in Plato's Apology. Are there any common elements?",
+      "Socrates claims not to know anything worth while. Can you find anywhere in the dialogue where he says he knows something?",
+      "How can Socrates' disavowals of knowledge be reconciled with his confident action and bold moral assertions?",
+      "How does Socrates defend himself against the charge of corrupting the youth? Is the defense adequate?"
+    ],
+    "Crito": [
+      "What arguments does Crito use to try to convince Socrates to escape?",
+      "Why does Socrates think he should pay no heed to what the majority think in this case?",
+      "Why does Socrates think he should pay no heed to prudential (non-moral) considerations, like his life and the well-being of his children?",
+      "Why does Socrates think it doesn't matter (in deciding whether to escape) whether the jury's verdict was just or unjust?",
+      "What is the only thing Socrates thinks he needs to determine in order to figure out whether he should escape from prison?",
+      "Socrates argues that if he escaped, he would harm Athens and its laws? In what way?",
+      "Socrates argues that if he escaped, he would be breaking a just agreement he has with Athens and its laws. What is the agreement?",
+      "Does Socrates' argument (assuming it is sound) show that civil disobedience is wrong? Under what conditions, if any, would Socrates' argument permit disobedience to the law?",
+      "Some people have found a tension between Socrates' distrust of the majority and his apparent preference for the Athenian constitution over others. Is there a tension here? If so, how would you resolve it?"
+    ],
+    "Protagoras": [
       "What are Socrates' reasons (at the beginning of the dialogue) for doubting that virtue can be taught?",
       "How does Protagoras reply to Socrates' arguments that virtue cannot be taught?",
       "What does Protagoras' speech tell us about (a) how he thinks virtue is taught, and (b) what virtue is?",
-      "What 'small' question does Socrates have after Protagoras' speech? Why does he ask it? How does Protagoras answer Socrates' question? Why does he answer the way he does?",
-      "Explain how Socrates argues (on behalf of 'the many') for hedonism, the view that 'pleasure and the good are the same'",
+      "What 'small' question does Socrates have after Protagoras' speech? Why does he ask it?",
+      "How does Protagoras answer Socrates' question? Why does he answer the way he does?",
+      "What argument does Socrates give to show that justice is the same kind of thing as piety (330c)? Is his argument cogent? What are some possible problems with it? How does Protagoras object to it?",
+      "What argument does Socrates give to show that wisdom is the same as temperance (332a)? Is it persuasive? Why or why not?",
+      "At 333b, Socrates begins to argue that one cannot be temperate without being just. Protagoras breaks off the argument in frustration. Can you reconstruct it? Can you figure out where Socrates was going with it?",
+      "What argument does Socrates give to show that courage is the same as wisdom (349d-351a)? Is his argument cogent? Why or why not? How does Protagoras object to it? Is his objection cogent?",
+      "Explain how Socrates argues for hedonism, the view that 'pleasure and the good are the same' (351e).",
       "What is incontinence (a.k.a. akrasia, weakness of the will, or 'being overcome by pleasure')?",
-      "Explain how Socrates argues from hedonism to the impossibility of incontinence",
+      "Explain how Socrates uses hedonism to show that incontinence is impossible. Is the argument cogent, or can you think of objections to it? How might Socrates respond to these objections?",
       "How does Socrates explain apparent cases of incontinence, e.g. smoking a cigarette though you know it's bad for you?",
       "What account of virtue is suggested by Socrates' rejection of incontinence? What does Socrates think we need in order to avoid 'being overcome by pleasure'?",
-      "How does Socrates define fear? Why does his account of incontinence, together with this definition of fear, imply that courage is neither standing up to what you fear nor not having fear? What does he think courage is?"
+      "How does Socrates define fear (358d)? Why does his account of incontinence, together with this definition of fear, imply that courage is neither standing up to what you fear nor not having fear? What does he think courage is?"
     ]
   },
   "Plato": {
-    "Republic, Book 1": [
+    "Republic Book 1": [
+      "Cephalus says that wealth is important because it can save us from having to do injustice. But why does he think justice is important?",
+      "Polemarchus says that justice is helping one's friends and harming one's enemies. What problems does Socrates find in this conception of justice?",
       "Thrasymachus thinks that Socrates, Cephalus, and Polemarchus all share a mistaken assumption about justice. What is it?",
-      "What does Thrasymachus mean when he says that justice is 'nothing other than the advantage of the stronger'?",
-      "Contrast Socrates's and Thrasymachus's conceptions of a ruler in Book 1",
-      "Why does Thrasymachus call justice a vice, injustice a virtue?"
+      "What does Thrasymachus mean when he says that justice is 'nothing other than the advantage of the stronger' (338c)? Who are 'the stronger'?",
+      "Why does Thrasymachus's view of justice imply that (for those who aren't in power) justice is 'the good of another' (343c), while injustice is to one's own advantage (344c)?",
+      "Why does Thrasymachus call justice a vice, injustice a virtue?",
+      "Compare the use Thrasymachus and Socrates make of the shepherd/sheep analogy.",
+      "Why does Socrates think that 'in a city of good men, if it came into being, the citizens would fight in order not to rule, just as they do now in order to rule' (347d)?",
+      "Explain Socrates' argument at 351b-352d that injustice will make a person 'incapable of achieving anything, because he is in a state of civil war and not of one mind.' Is it a good argument? What analogy does it rely on?",
+      "Is Socrates' argument about justice being the virtue of the soul (352d-354a) a good argument? What premise(s) do you think are false, and why? Or is there a mistake in the logic?",
+      "Why is Socrates dissatisfied with the arguments of book 1?"
     ],
-    "Republic, Book 2": [
+    "Republic Book 2": [
       "At 357b-357e, Glaucon distinguishes three classes of goods. What are they? In which class does he put justice? In which class does he think 'most people' put justice?",
+      "Glaucon wants to hear justice and injustice discussed apart from 'their rewards and what comes from each of them' (358b). What kinds of things are included in 'their rewards and what comes from each of them'? Give some examples from the text.",
+      "Glaucon tells a story about the origins of justice. What is it? What view of human nature underlies it?",
       "Glaucon argues that no one practices justice willingly. Explain.",
       "Glaucon says that justice is an intermediate between the best and the worst. What are the best and the worst?",
       "Glaucon urges Socrates to examine the completely just man and the completely unjust man. Describe each of these. Why does he think it is important to focus on these?",
       "Why does Socrates start an investigation into the just man by inquiring about the just city?",
-      "What is Socrates' justification for requiring that each person in his city do the one job for which they are most naturally suited, and not dabble in others?"
+      "What is Socrates' justification for requiring that each person in his city do the one job for which he or she is most naturally suited, and not dabble in others?"
     ],
-    "Republic, Books 2-5": [
-      "Why aren't the guardians allowed to have any private property?",
-      "How does Socrates reply to Adeimantus's objection that the guardians in his ideal city won't be very happy, because they will leave in communal dwellings without possessions?",
-      "How does Plato argue that the guardians should include women as well as men? How does he reply to the objection that since men and women have different natures, they should do different jobs?",
-      "Explain Plato's proposals for state regulation of reproduction and child rearing, and their motivation. Why does Plato think the nuclear family should be abolished?",
+    "Republic Books 2-5": [
+      "What kind of education will Plato's guardians get? Why music and poetry and physical training?",
+      "In what ways are Plato's educational proposals similar to Protagoras's (in the Protagoras)? Is there a tension between these proposals and the views on education Socrates puts forth in the Protagoras?",
+      "Why does Plato put so much stress on education?",
+      "Why does Plato think that laws are useless for making the city good (427a)?",
+      "Why does Plato propose to censor the literature, art, and music to which his guardian youth are exposed? What kinds of stories would Plato censor? What would be left?",
+      "Describe Plato's distinction between 'imitation' and 'straight narration.' When does he think imitation should be allowed? How does he think imitation can be harmful?",
+      "Describe the guardians' living arrangements. Why aren't the guardians allowed to have any private property?",
+      "How does Socrates reply to Adeimantus's objection that the guardians in the kallipolis won't be very happy?",
+      "How does Plato argue that the guardians should include women as well as men? How does he reply to the objection that since men and women have different natures, they should do different jobs? In what sense is he a feminist?",
+      "Explain Plato's proposals for state regulation of reproduction and child rearing. How does Plato argue for the abolition of the nuclear family?",
+      "Plato says that the communal breeding arrangements he recommends lead to 'the greatest good' for the city. What is this good?",
       "What is Plato's justification for giving all the political and military power to the guardians and depriving the producing class of any political participation? What is the guardians' main goal in governing?"
     ],
-    "Republic, Book 4": [
+    "Republic Book 4": [
       "What are the three parts of Plato's city? What is the job of each?",
       "What are the three parts of the soul, and how do they match up with the parts of the city? What is the natural role of each part?",
       "What is wisdom in the city? What is courage? Temperance? Justice?",
       "What is wisdom in the soul? What is courage? Temperance? Justice?",
-      "How does Plato argue that the soul has three distinct parts?",
+      "What does Plato think is the greatest harm possible in the city?",
+      "What kinds of phenomena does Plato take to show that the soul has different parts?",
+      "How does Plato show that the rational part of the soul is distinct from the appetitive part? How does he show that the spirited part is distinct from the appetitive part?",
       "Socrates says that justice 'isn't concerned with someone's doing his own externally, but with what is inside him...' Explain.",
       "What is the relation between a just person and just actions? Is one defined in terms of the other? What makes an action just, on Plato's view?",
-      "What is injustice in the soul? In the city? In what sense is injustice 'contrary to nature'?"
-    ],
-    "Republic, Books 8-9": [
-      "Would Plato say that a businessman who rationally organizes all of his desires so that he can make money most efficiently has a soul ruled by the rational part? Why or why not?",
-      "What is the difference between necessary and non-necessary appetites or desires?",
-      "How does Plato characterize democracy and the democratic soul?",
-      "What's wrong with democracy (and the democratic soul), according to Plato?",
-      "Describe the tyrannical soul and explain how it is analogous to a tyrannical state",
-      "Why does Plato think that the successful tyrant is the most wretched and least free of all people?"
+      "What is injustice in the soul? In the city? In what sense is injustice 'contrary to nature'?",
+      "Explain the analogy Plato draws between justice and health.",
+      "Is the analogy Plato draws between the state and the individual soul illuminating or misleading? Explain.",
+      "What basis does Socrates have for assuming that someone with a just soul (in his sense) won't rob temples, break agreements, or engage in other behavior conventionally regarded as unjust?"
     ],
     "Phaedo": [
+      "What does Socrates mean when he says that philosophy is practice for death? Why does he say a philosopher should welcome death?",
       "In what way does Plato think the senses are unreliable as sources of knowledge?",
-      "At 74b, Socrates asks: 'do not equal stones and sticks sometimes, while remaining the same, appear to one to be equal and to another to be unequal?' Explain. How does this distinguish them from the Equal Itself?",
-      "Why does Plato think that no sensible property could explain why beautiful things are beautiful, or why large things are large?",
+      "At 74b, Socrates asks: 'do not equal stones and sticks sometimes, while remaining the same, appear to one to be equal and to another to be unequal?' Explain.",
+      "Compare the Form of F with sensible Fs. What are the main differences?",
+      "What is the 'compresence of opposites'? Give some examples.",
+      "Why does Plato think that no sensible property could explain why beautiful things are beautiful, or why large things are large? What does he think can explain why beautiful things are beautiful?",
       "What justification does Plato give for believing in the Forms? Is it a reasonable one?",
-      "Aristotle says that Plato departed from Socrates and 'separated the Forms' because he accepted the Heraclitean doctrine that all sensible things are 'in flux.' How should we understand this doctrine?"
+      "Aristotle says that Plato departed from Socrates and 'separated the Forms' because he accepted the Heraclitean doctrine that all sensible things are 'in flux.' How should we understand this doctrine, and what does it have to do with Plato's belief in non-sensible Forms?"
     ],
     "Hippias Major": [
       "What kind of answer is Socrates looking for when he asks Hippias 'what is the fine'?",
-      "How do Hippias's answers illustrate the 'compresence of opposites' in sensible things and properties?"
+      "How do Hippias's answers illustrate the 'compresence of opposites' in sensible things and properties? Give some examples."
     ],
-    "Republic, Book 5-7": [
-      "Socrates' aim at the end of book 5 is to distinguish true philosophers from the 'lovers of seeing and hearing.' Who are the lovers of seeing and hearing?",
-      "How does Socrates argue that the lovers of seeing and hearing and are lovers of opinion, not knowledge?",
-      "What are the four stages in the cave? How do they correspond to the four parts of the Divided Line?",
-      "Why does Plato think that the prisoners in the cave are 'like us'?",
-      "Why does Plato think that the prisoners in the cave would be reluctant to turn around and walk towards the light?",
-      "What is represented by the second stage in the allegory of the cave?",
-      "What sorts of sense perceptions does Plato call 'summoners'?",
-      "What are the two characteristic features of Thought?",
-      "How does dialectic differ from mathematics? What is the goal of dialectic?",
-      "Is the knowledge the guardians must have any different from the knowledge the completely just individual must have?"
+    "Republic Book 5": [
+      "Socrates' aim at the end of book 5 is to distinguish true philosophers from the 'lovers of sights and sounds.' Who are the lovers of sights and sounds? What distinguishes them from philosophers?",
+      "How does Socrates argue that the lovers of sights and are lovers of opinion, not knowledge? Is it an argument the lovers of sights and sounds could accept?"
+    ],
+    "Republic Books 6-7": [
+      "Draw the cave. What are the four stages in the cave? How do they correspond to the four parts of the Divided Line?",
+      "Why does Plato think that the prisoners in the cave are 'like us'? In what sense do we argue about mere shadows - indeed, about shadows of artifacts, not of real things?",
+      "Is the knowledge the guardians must have any different from the knowledge the completely just individual must have? Why or why not?",
+      "Why does Plato think that the prisoners in the cave would be reluctant to turn around and walk towards the light? Explain how this part of the allegory applies to us.",
+      "Why does Plato think that the prisoners would ridicule the person who returned from the outside? Explain how this part of the allegory applies to us.",
+      "What is the difference between opinion and knowledge, according to Plato?",
+      "What does the second stage in the allegory of the cave (i.e., looking at the fire and the figurines that cast shadows on the wall) represent?",
+      "What sorts of sense perceptions does Plato call 'summoners' (523b ff.)? What effect do summoners have on the soul? How do they draw us towards knowledge of the forms?",
+      "What is the difference between the numbers studied by arithmetic and the numbers attached to the objects of vision and the other senses? How do we grasp the numbers studied by arithmetic?",
+      "What are the two characteristic features of Thought (the third stage of the Divided Line, 510b-d)? How does Plato illustrate them by means of mathematics? What are some other examples of Thought (in addition to mathematics)?",
+      "Does Socrates claim to have Understanding (the fourth stage of the Line) of the Good or Justice, or merely Thought?",
+      "How does dialectic differ from mathematics?",
+      "What is the goal of dialectic?",
+      "Explain Plato's analogy of the Sun.",
+      "Plato does not think that education consists in stuffing the soul with bits of knowledge. What does he think education is?",
+      "Describe the education of the guardians. Is it the kind of education you'd expect for a political leader?"
+    ],
+    "Republic Books 8-9": [
+      "Would a businessman who rationally organizes all of his desires so that he can make money most efficiently have a soul ruled by the rational part? Why or why not? What kind of soul would he have?",
+      "What is the difference between necessary and non-necessary appetites or desires? Explain what Plato means when he says that the rational part of the oligarchic man's soul is enslaved to his necessary desires.",
+      "How does Plato characterize democracy and the democratic soul? What features of the democratic soul correspond to the freedom and equality of the democratic state?",
+      "What's wrong with democracy (and the democratic soul), according to Plato?",
+      "Plato says that an excessive desire for freedom leads from democracy to tyranny. Explain.",
+      "Describe the tyrannical soul and explain how it is analogous to a tyrannical state.",
+      "Why does Plato think that the successful tyrant is the most wretched and least free of all people?",
+      "If you asked the tyrant, he'd probably say that he's happy, since he can have anything he wants. Plato apparently thinks he's wrong. Can we be wrong about whether we're happy?",
+      "Socrates argued in the Protagoras that the phenomenon commonly known as weakness of will, or 'being overcome by pleasure,' is really just ignorance, and that we always do what we believe to be best. Does Plato reject this Socratic view, or does he accept it?"
     ]
   },
   "Aristotle": {
+    "Posterior Analytics": [
+      "Aristotle says that we have knowledge through demonstrations, and that demonstrations are deductions expressing knowledge. What is a deduction? What further conditions must a deduction meet in order to count as a demonstration, i.e., as 'expressing knowledge'?",
+      "Give an example of a deduction with true premises that are explanatory of the conclusion, and an example of a deduction with true premises that are not explanatory of the conclusion.",
+      "Explain Aristotle's distinction between what is better known (or prior) by nature and what is better known (or prior) to us. Give some examples.",
+      "Give an example of a deduction with true premises that are explanatory of the conclusion but not primary and immediate. What kind of premises are primary and immediate?",
+      "Explain the dilemma about knowledge Aristotle poses at the beginning of Posterior Analytics 1.3. How does he resolve the dilemma?"
+    ],
     "Nicomachean Ethics I": [
-      "Why does Aristotle say that adequate students of ethics must have been brought up well, with good habits?",
-      "What is an end? What is it for one end to be 'higher' than another?",
-      "How does Aristotle argue that happiness is the highest end of human actions?",
-      "How does Aristotle argue that the human good is the good performance of the human function?"
+      "Why does Aristotle say that adequate students of ethics must have been brought up well, with good habits? Does he think that his book alone can make someone good? If not, what is it supposed to accomplish?",
+      "Is Aristotle's methodology too conservative? Wouldn't a well brought-up young man in eighteenth-century Georgia think that it's right for black people to be slaves to white people, and that men are superior to women? Will Aristotle's method in ethics inevitably justify the accepted morality?",
+      "What is an end? What is it for one end to be 'higher' than another, that is, for the second to be 'subordinate' to the first? Give some examples. What is meant by 'the highest end'?",
+      "How does Aristotle argue that the human good is the highest end (if there is one) of human actions?",
+      "How does Aristotle argue that happiness is the highest end of human actions? What does he mean when he says that happiness is 'complete' and 'self-sufficient'?",
+      "How does Aristotle argue that the human good is the good performance of the human function? What is the human function? How does Aristotle get to the conclusion that the human good is 'the soul's activity that expresses virtue'?",
+      "Aristotle seems to assume that the notion of good that connects with an agent's ends the same as the notion of good that connects with well functioning. Is this legitimate? Discuss."
     ],
     "Nicomachean Ethics II": [
       "How, according to Aristotle, do we become virtuous?",
       "What is the difference between doing a virtuous action and doing a virtuously action virtuously?",
-      "What does Aristotle mean when he says that the virtues (of character) are states?",
-      "True or false? For Aristotle, being virtuous is a matter of being strong enough to overcome your emotions",
-      "What kind of state of character is a virtue?"
+      "What does Aristotle mean when he says that the virtues (of character) are states? What is a state? How does Aristotle argue that the virtues are not feelings or capacities?",
+      "True or false? For Aristotle, being virtuous is a matter of being strong enough to overcome your emotions and feelings when they tempt you to do something inappropriate. Explain.",
+      "What kind of state of character is a virtue? What does Aristotle mean when he says that virtue is a state '<consisting> in a mean'? (Does this mean that our actions and feelings should always be 'medium-strength'?) What does he mean when he says that this mean is 'relative to us'? How is the mean determined?"
     ],
     "Nicomachean Ethics III": [
-      "Suppose someone threatens to kill my family if I don't confess to a crime I didn't do, and I confess. Is this voluntary or not, according to Aristotle?",
-      "Would Aristotle say that Oedipus killed his father voluntarily?",
+      "When, on Aristotle's view, is something we do voluntary?",
+      "Suppose someone threatens to kill my family if I don't confess to a crime I didn't do, and I confess. Is this voluntary?",
+      "Oedipus killed an old man at a crossroads. The old man turned out to be his father–though he did not know this, and had no way of knowing. Would Aristotle say that Oedipus killed his father voluntarily? Explain. Would Aristotle says that Oedipus killed the old man voluntarily?",
       "Aristotle agrees with Socrates that 'every vicious person is ignorant,' but he doesn't think it follows that all wrongdoing is involuntary. Why not?",
-      "Give some examples of voluntary actions not done from decision",
+      "Give some examples of voluntary actions not done from decision. What is required for a voluntary action to be done from decision?",
+      "What is deliberation? Give some examples.",
+      "In order for an virtuous action to be done virtuously, it must be decided on for itself, not for some ulterior motive. But how can virtuous actions be decided on for themselves (1105a33) if decision must be the product of deliberation, and deliberation consists in figuring out how we can secure some end?",
+      "Some people think that wish is for the real good, others that wish is for the apparent good. What does Aristotle think?",
       "Why is it important for Aristotle that virtue and vice be in our power?",
-      "How can we hold the vicious person responsible for her vicious actions?",
-      "How does Aristotle argue that we are responsible for our own states of character?"
+      "It may be nearly impossible for a vicious person to do virtuous actions. So how can we hold the vicious person responsible for her vicious actions?",
+      "How does Aristotle argue that we are responsible for our own states of character? Is his argument persuasive?"
     ],
-    "Nicomachean Ethics VI-VII-X": [
-      "Explain Aristotle's distinction between theoretical and practical knowledge",
-      "Explain the distinction between intelligence and craft knowledge",
-      "What is deliberation, according to Aristotle?",
-      "Why does Aristotle think that one cannot have full virtue unless one is intelligent?",
-      "Describe Aristotle's method in his examination of incontinence",
-      "What is the difference between incontinence and intemperance?",
+    "Nicomachean Ethics VI": [
+      "Explain Aristotle's distinction between theoretical and practical knowledge. (How is Aristotle departing from Plato here?) Explain the distinction between intelligence and craft knowledge. (How is Aristotle departing from the Socrates of the Protagoras here?)",
+      "Aristotle says that virtue makes the goal correct, intelligence what promotes the goal' (1144a10). Explain. What is the role of intelligence in deliberation?",
+      "In what sense is intelligence concerned with particulars?",
+      "Why does Aristotle think that one cannot have full virtue unless one is intelligent? Why does he think that one cannot be intelligent unless one has full virtue?",
+      "What are natural virtue and cleverness, and how do they relate to full virtue and intelligence?"
+    ],
+    "Nicomachean Ethics VII": [
+      "Describe Aristotle's method in his examination of incontinence.",
+      "Aristotle agrees with Socrates that incontinence is a kind of ignorance. He also agrees with ordinary people that an incontinent person knows (or believes) what is best but does something else. How can he have it both ways? In what way does the incontinent person have knowledge, and in what way does she lack knowledge?",
+      "Try to reconstruct Aristotle's example at 1147a25-b5.",
+      "What is the difference between incontinence and intemperance, and between continence and temperance? Does Plato have analogous distinctions?"
+    ],
+    "Nicomachean Ethics VIII-IX": [
+      "Compare Aristotle's discussion of what's loveable in VIII.2 to his discussion of what's wished for in III.4: explain what work the addition of the category 'good for X' is doing in VIII.2.",
+      "What are the three kinds of friendship? Why does Aristotle think that only good men can have the best kind of friendship?",
+      "Does Aristotle think that self-love is good or bad? What distinction does the answer to that question depend on?"
+    ],
+    "Nicomachean Ethics X": [
       "Why does Aristotle think that the happiest life cannot be a life devoted to pleasant amusements?",
-      "Why does Aristotle think that the happiest human activity is study?"
-    ],
-    "Posterior Analytics & Physics": [
-      "Give examples of different types of deductions with true premises",
-      "Explain the dilemma about knowledge Aristotle poses at the beginning of Posterior Analytics 1.3",
-      "How does Aristotle define a 'nature'?",
-      "What are the four different things meant by 'cause'?",
-      "What does Aristotle mean by a 'coincidental cause'?",
-      "How does Aristotle argue that nature acts 'for something'?"
+      "Why does Aristotle think that the happiest human activity is study (or contemplation)? Of what virtue is study the exercise? What makes study superior to exercises of the 'civic virtues' like courage and justice?"
     ],
     "Categories": [
-      "How would Aristotle distinguish between different types of predication?",
-      "What is the difference between being SAID OF and being IN?",
-      "What does Aristotle mean by 'primary substance' and 'secondary substance'?",
-      "How does Aristotle argue that individual substances are 'primary'?",
-      "Where does 'being' fit into Aristotle's categories?"
+      "What are the ten categories? What is a category?",
+      "How would Aristotle distinguish between the relation between subject and predicate in 'Socrates is pale' and the relation between subject and predicate in 'Socrates is human'? How would Plato understand these two sentences?",
+      "What is the difference between being SAID OF and being IN (i.e., between IZZING and HAZZING)?",
+      "True or false? (Explain your choices.) When P is SAID OF S, P and S are in different categories. When P is IN S, P and S are in different categories. When P is SAID OF S and Q is SAID OF P, Q is SAID OF S. When P is IN S and Q is SAID OF P, Q is SAID OF S. When P is SAID OF S, the definition of P is SAID OF S. When P is IN S, the definition of P is SAID OF S.",
+      "Give examples of: Something that is SAID OF a subject and IN a (different) subject. Something that is SAID OF a subject but not IN any subject. Something that is IN a subject but not SAID OF any subject. Something that is neither SAID OF nor IN any subject.",
+      "In which of the above four categories are primary substances? In which of them are secondary substances?",
+      "Why does Aristotle think that primary substances are ontologically prior to secondary substances and non-substances? What do you think of his argument?"
+    ],
+    "Physics II.1-2": [
+      "How does Aristotle define a 'nature'? Explain what work is done by each part of the definition.",
+      "Aristotle says that among the natural things are 'the simple bodies, such as earth, fire, air and water.' What 'principle of motion and stability' do these simple bodies have?",
+      "How does Antiphon argue that the nature of a bed is not its shape, but the material (wood) of which it is made? What does Aristotle think of this argument?",
+      "Materialist philosophers take the nature of a thing to be the matter of which it is composed (e.g., the elements air, earth, fire, and water). How does Aristotle argue that a thing's form is also the nature, and in fact 'is the nature more than the matter is'?",
+      "Aristotle says that shapes, solids, lengths, and points are the concern of both the mathematician and the natural scientist. What is the difference between the way the mathematician studies them and the way the natural scientist studies them?",
+      "What does Aristotle think is wrong with the Platonists' approach to natural science? (The Platonists are 'those who say there are Ideas.')"
+    ],
+    "Physics II.3-7": [
+      "Aristotle says that four different things might be meant by 'cause.' What are they? What are the four causes of a door?",
+      "It clearly makes sense to talk about the purpose or end of an artifact like a lectern or teapot or door. But does it make sense to talk about the purpose or end of a living creature–a tree, a dog, or a human being?",
+      "Why does Aristotle say that in the case of living organisms, the formal, efficient, and final causes 'amount to one' (198a25)?",
+      "What does Aristotle mean by a 'coincidental cause'? Give an example.",
+      "What is luck, according to Aristotle? In what way is it a coincidental cause? Give an example.",
+      "Use Aristotle's analysis of luck to explain how it can be true both that everything can be referred to some cause (i.e. nothing happens for no reason) and that some things are due to luck."
+    ],
+    "Physics Parts of Animals": [
+      "Aristotle says that according to materialist philosophers like Empedocles, nature acts 'not for something, but by necessity.' What does he mean? How do these philosophers account for the features of organisms?",
+      "How does Aristotle argue that the arrangement of teeth in the mouth (sharp ones in front, flat ones in back) is 'for an end'? Are his premises plausible? How might a philosopher like Empedocles reply?",
+      "Materialists try to explain the features of things by appealing to features of their matter. How does Aristotle use the example of a wall to show that this is implausible? In what way is the example of a wall (an artifact) relevant to the kinds of cases Aristotle is really interested in (e.g. an eye)?",
+      "What does Aristotle think is the proper way to think about the relation between the form of a wall (or an eye) and its matter? What does he mean by 'hypothetical necessity'?",
+      "Was it reasonable for Aristotle to hold that substantial forms (i.e. the form of a dog or a human being) are fundamental entities in the natural world? Would it be reasonable for us to think this? What has changed?"
+    ],
+    "Metaphysics XII": [
+      "What is a 'first mover' (Physics VIII.5)? What is an 'unmoved mover'?",
+      "Why does Aristotle think there must be an eternal first mover?",
+      "How does Aristotle's unmoved mover move the sphere of the fixed stars? How can something that doesn't change cause change in something else?",
+      "What is the primary (unmoved) mover like? Why does Aristotle say, 'Its way of life has the same character as our own way of life at its best has for a short time' (Metaphysics XII.7)?"
     ]
   },
   "Hellenistic Philosophy": {
-    "General": [
-      "How do Stoics and Epicureans differ about the good, or highest end of human life?",
-      "Our word 'Epicurean' is used for people who seek out fine wines and fancy meals. In what ways is this usage accurate and misleading?",
-      "Contrast Epicurean views on the value of justice and nature of pleasure with Plato's views",
-      "What does Epictetus think is 'up to us,' and what does he think is not 'up to us'?",
-      "Explain the different views of Stoics and Epicureans about why we should pursue virtue",
-      "Do the Pyrrhonian Sceptics have distinctive doctrines?",
-      "What is the goal of skepticism, according to Sextus Empiricus?",
-      "Give an example of how a skeptic might use one of the modes to induce suspension of belief",
-      "How do Epicureans, Stoics, and Skeptics relate to Socratic philosophy?",
-      "In what ways are Epicurean and Pyrrhonian Sceptic ethics similar and different?"
+    "Epicureanism": [
+      "What was highest end, according to the Epicureans? How did they argue for this conclusion?",
+      "Our word 'Epicurean' is used for people who seek out fine wines and fancy meals. In what ways is this usage accurate (to the original Epicurean school), and in what ways is it misleading?",
+      "Contrast Epicurean views on (a) the value of justice and (b) the nature of pleasure with Plato's views in the Republic."
+    ],
+    "Stoicism": [
+      "What was the highest end, according to the Stoics? How did they argue for this conclusion?",
+      "Discuss some ways in which Stoic ethics, as represented in Epictetus's Handbook, resembles Socratic ethics.",
+      "Explain what Epictetus is getting at in this passage: If someone turned your body over to just any person who happened to meet you, you would be angry. But are you not ashamed that you turn over your own faculty of judgment to whoever happens along, so that if he abuses you it is upset and confused?"
+    ],
+    "Scepticism": [
+      "Do the Pyrrhonian Sceptics have distinctive positions that set them apart from Epicureans and Stoics? If not, what is distinctive about them? If so, how do they defend against the charge that they too are dogmatists?",
+      "What is the goal of philosophy, according to the Sceptics? Compare it with the Epicurean highest end.",
+      "Give an example of how the Third Mode might be used to induce suspension of belief.",
+      "Epicureans, Stoics, and Skeptics all consider themselves advocates of the true Socratic philosophy. Explain how their views relate to themes from the Socratic dialogues."
     ]
   }
 }
